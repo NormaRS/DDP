@@ -1,3 +1,8 @@
+# Developing Data Products
+# Course Project Part 1 Shiny application
+# Norma Ruiz
+# Noviembre 2015
+
 # Developing Data Products - Course Project
 # Portfolio analysis of an investment in 2 risky assets
 # The asset chosen are: APPLE stock and MICROSOFT stock

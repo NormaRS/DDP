@@ -1,3 +1,8 @@
+# Developing Data Products
+# Course Project Part 1 Shiny application
+# Norma Ruiz
+# Noviembre 2015
+
 library(shiny)
 #shinyUI(pageWithSidebar(
 #  headerPanel("Portfolio composition investing in 2 risky assets"),
