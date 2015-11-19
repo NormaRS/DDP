@@ -2,7 +2,8 @@
 Developing Data Products Repository
 
 The only purpose of this repository is to publish
-Course Project files: 
+Course Project files:   
 
-server.R
-ui.R
+- server.R  
+- ui.R  
+
