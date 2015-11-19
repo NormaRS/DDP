@@ -1,0 +1,12 @@
+In this application we will explore the return of an investment in 2 assets where the total amount invested is 
+divided between both assets in different percentages adding always 100%.
+The assets are from the Apple Inc. and Microsoft Corporation, symbols "AAPL", "MSFT". The first one is from Apple, the electronics company. The second is from Microsoft, a software corporation.
+The slider may be used to change the percent invested in one asset. As this percent changes, the other asset 
+changes as well to keep the sum equal to 100%.
+It is possible to have negative percentages meaning a 'short position', that is the case when the investor has 
+sell borrowed shares of one of the assets to leverage the investment in the remaining asset.
+The plot shows, for each combination of assets in the portfolio, the expected return in 1 year, the risk which 
+represents the volatility in the combined prices of the portfolio and the percent invested in each asset. 
+The vertical axis shows the expected return of the portfolio; the horizontal axis plots the associated risk. As 
+the curve moves to the left of the horizontal axis the risk decreases but the return of the investment also 
+decreases.
